@@ -1,0 +1,4 @@
+mkdocs
+mkdocs-material
+# 如果你之前安装过图片灯箱插件，也加上：
+mkdocs-glightbox
