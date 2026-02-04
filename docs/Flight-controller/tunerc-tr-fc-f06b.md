@@ -16,7 +16,7 @@ EZ3当前有两个版本的硬件, 硬件版本可以通过查看飞控上的丝
 
 ## 测试点信息
 以下图片为EZ3上所有测试点的详细信息.  
-![alt text](/docs/Flight-controller/tr-fc-f06b/F06B-25W46-B.svg)  
-![alt text](/docs/Flight-controller/tr-fc-f06b/F06B-25W46-T.svg)
+![BOT](../../Flight-controller/tr-fc-f06b/F06B-25W46-B.svg)  
+![TOP](../../Flight-controller/tr-fc-f06b/F06B-25W46-T.svg)
 
 ## 电源结构
