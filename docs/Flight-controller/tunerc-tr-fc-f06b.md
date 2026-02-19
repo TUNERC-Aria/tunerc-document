@@ -1,22 +1,26 @@
-# EZ3资料页
+# EZ3 Documentation
 
-## 硬件版本
-EZ3当前有两个版本的硬件, 硬件版本可以通过查看飞控上的丝印确定, 以下是硬件的差异:
-#### 丝印: **F06B-25W35**  
-此版本的电机焊盘较小(普通用户不会收到此版本).
-#### 丝印: **F06B-25W46**  
-正式销售的第一个版本, 这也是当前最新版本.
+## Hardware Versions
+The EZ3 currently has two hardware iterations. You can identify the specific version by checking the silk-screen printing (marking) on the flight controller. The differences are as follows:
+#### Silk-screen: **F06B-25W35**  
+Description: This version features smaller motor solder pads.  
+Note: This is a pre-production/limited version; general users will typically not receive this unit.
+#### Silk-screen: **F06B-25W46**  
+Description: This is the first official retail version and is currently the latest version available.
 
-## 3D模型
-我们提供了EZ3的3D文件, 可以供用户在设计机架或生成渲染图时使用.  
-[前往github下载此文件](https://github.com/TUNERC-Aria/tunerc-document/blob/main/docs/Flight-controller/tr-fc-f06b/_FC-F06B.zip)
+## 3D Models
+We provide 3D design files for the EZ3, which users can utilize for custom frame design or generating high-quality renders.  
+Please click the link below to download the 3D files:  
+[Download 3D Files](https://github.com/TUNERC-Aria/tunerc-document/blob/main/docs/Flight-controller/tr-fc-f06b/_FC-F06B.zip)
 
-该文件格式为.zip压缩包, 内部包含一个.step文件(文件格式:STEP AP214).  
-文件中包含了4个电机连接器和4个避震球, 飞控包装内不含有电机连接器, 避震球是TUNERC推荐的避震球,在飞控的配件包中, 用户需要自行安装.  
+The file is provided as a .zip archive, which contains a .step file (Format: STEP AP214).
 
-## 测试点信息
-以下图片为EZ3上所有测试点的详细信息.  
+The 3D model includes 4 motor connectors and 4 damping balls. Please note that the motor connectors are not included in the flight controller package. The damping balls are the specific ones recommended by TUNERC and can be found in the flight controller's accessory bag; users will need to install them manually.  
+
+## Test Point Information
+The image below provides detailed information for all test points on the EZ3.  
 ![BOT](../../Flight-controller/tr-fc-f06b/F06B-25W46-B.svg)  
 ![TOP](../../Flight-controller/tr-fc-f06b/F06B-25W46-T.svg)
 
 ## 电源结构
+To be supplemented.
