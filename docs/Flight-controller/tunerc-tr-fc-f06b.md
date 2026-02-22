@@ -1,4 +1,4 @@
-# EZ3 Documentation
+# EZ3 Document
 
 ## Hardware Versions
 The EZ3 currently has two hardware iterations. You can identify the specific version by checking the silk-screen printing (marking) on the flight controller. The differences are as follows:
