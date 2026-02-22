@@ -11,7 +11,7 @@ Description: This is the first official retail version and is currently the late
 ## 3D Models
 We provide 3D design files for the EZ3, which users can utilize for custom frame design or generating high-quality renders.  
 Please click the link below to download the 3D files:  
-[Download 3D Files](https://github.com/TUNERC-Aria/tunerc-document/blob/main/docs/Flight-controller/tr-fc-f06b/_FC-F06B.zip)
+[Download 3D Files](https://github.com/TUNERC-Aria/tunerc-document/blob/main/docs/Flight-Controller/tr-fc-f06b/_FC-F06B.zip)
 
 The file is provided as a .zip archive, which contains a .step file (Format: STEP AP214).
 
@@ -19,8 +19,8 @@ The 3D model includes 4 motor connectors and 4 damping balls. Please note that t
 
 ## Test Point Information
 The image below provides detailed information for all test points on the EZ3.  
-![BOT](../../Flight-controller/tr-fc-f06b/F06B-25W46-B.svg)  
-![TOP](../../Flight-controller/tr-fc-f06b/F06B-25W46-T.svg)
+![BOT](../../Flight-Controller/tr-fc-f06b/F06B-25W46-B.svg)  
+![TOP](../../Flight-Controller/tr-fc-f06b/F06B-25W46-T.svg)
 
 ## 电源结构
 To be supplemented.
