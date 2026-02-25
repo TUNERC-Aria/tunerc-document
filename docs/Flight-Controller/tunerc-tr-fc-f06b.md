@@ -22,5 +22,6 @@ The image below provides detailed information for all test points on the EZ3.
 ![BOT](../../Flight-Controller/tr-fc-f06b/F06B-25W46-B.svg)  
 ![TOP](../../Flight-Controller/tr-fc-f06b/F06B-25W46-T.svg)
 
-## 电源结构
-To be supplemented.
+## Power supply schematic
+The following images show the power supply structure of the EZ3.  
+![11](../../Flight-Controller/tr-fc-f06b/Power_supply_schematic.png)
