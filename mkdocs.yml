@@ -41,6 +41,7 @@ nav:
       - EZ3: Flight-Controller/tunerc-tr-fc-f06b.md
   - Accessories:
       - Mag&Baro Module: Accessories/tunerc-tr-pe-0001.md
+      - OSD Module: Accessories/tunerc-tr-ac-6b02.md
   - FAQ: faq.md
 
 # 插件配置
