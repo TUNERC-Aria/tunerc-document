@@ -15,6 +15,6 @@ Compared to the previous version, it features the following improvements:
 6. Upgraded the UART4 signal inverter. The new inverter operates automatically when required, eliminating the need for bridging the jumper pads. It also delivers superior performance and functions without causing any interference or negative impact on connected non-inverted (normal signal) devices.
 #### Silk-screen: **26W17** 
 Description: The PCB color is green, with "26W17" and "POLY F405 1.3" printed on the back of the board.  
-Compared to the previous version, it features the following improvements: 
-1. Optimized the 5V BEC to deliver lower electrical noise and enhanced stability.
-2. Modified the package of certain components.
+Compared to the previous version, it features the following improvements:  
+1) Optimized the 5V BEC to deliver lower electrical noise and enhanced stability.  
+2) Modified the package of certain components.  
