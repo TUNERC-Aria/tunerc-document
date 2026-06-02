@@ -37,7 +37,7 @@ theme:
 nav:
   - Home: index.md
   - Flight Controller:
-#      - Poly V1.2: Flight-Controller/tunerc-tr-fc-f05b.md
+      - Poly: Flight-Controller/tunerc-tr-fc-f05b.md
       - EZ3: Flight-Controller/tunerc-tr-fc-f06b.md
   - Accessories:
 #      - Mag&Baro Module: Accessories/tunerc-tr-pe-0001.md
