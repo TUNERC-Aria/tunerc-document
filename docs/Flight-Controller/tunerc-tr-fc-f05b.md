@@ -3,6 +3,8 @@
 ## Hardware Versions
 The POLY currently has multiple hardware versions. You can identify the specific version by checking the silk-screen printing (marking) on the PCB. The differences are as follows:
 #### Silk-screen: **22W12** or **22W19**  
+![TOP](../../Flight-Controller/tr-fc-f05b/F05B-22W19-TOP.jpg)
+![BOT](../../Flight-Controller/tr-fc-f05b/F05B-22W19-BOT.jpg)  
 Description: The PCB color is black, and the silk-screen marking is usually 22W19. This iteration was sold from May 2022 to June 2024. It stands as the first official retail version and is commonly referred to as V1.1 or the Original Version.
 #### Silk-screen: **24W26**  
 Description: The PCB color is green, with "24W26" and "POLY F405 1.2" printed on the back of the board. This iteration was sold from July 2024 to April 2026.  
