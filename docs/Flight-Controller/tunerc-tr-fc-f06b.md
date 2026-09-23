@@ -8,13 +8,14 @@ Note: This is a pre-production/limited version; general users will typically not
 #### Silk-screen: **F06B-25W46**  
 Description: This is the first official retail version and is currently the latest version available.  
 Key Components List:  
+  
 1. FC-MCU: AT32F435CGU7
 2. FC-IMU: ICM-42688-P
 3. FC-BARO: DPS310XTSA1
 4. ESC-MCU: EFM8BB51F16G-C-QFN20
 5. RX-MCU: ESP32-C3FH4
 6. RX-RFIC: SX1280IMLTRT
-
+  
 ## 3D Models
 We provide 3D design files for the EZ3, which users can utilize for custom frame design or generating high-quality renders.  
 Please click the link below to download the 3D files:  
